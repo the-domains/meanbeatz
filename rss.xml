@@ -4,11 +4,18 @@
         <description><![CDATA[MeanBeatz]]></description>
         <link>https://thegrid.ai/meanbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 10:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 10:23:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meanbeatz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>We're here</p></article>]]></description>
+            <link>https://thegrid.ai/meanbeatz/hello-world/index.html</link>
+            <guid isPermaLink="false">7f30e0cf-1df9-4c85-b89a-7a875642b7a2</guid>
+            <pubDate>Fri, 15 Apr 2016 10:23:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Electronic empire Episode 2]]></title>
-            <description><![CDATA[<h1>Electronic empire Episode 2</h1>]]></description>
+            <description><![CDATA[<article><h1>Electronic empire Episode 2</h1><p>Episode 2</p></article>]]></description>
             <link>https://thegrid.ai/meanbeatz/electronic-empire-episode-2/index.html</link>
             <guid isPermaLink="false">e24f9860-ef0a-4fb7-a42b-699c6f713881</guid>
             <pubDate>Fri, 15 Apr 2016 10:21:36 GMT</pubDate>
