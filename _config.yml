@@ -1,0 +1,28 @@
+name: MeanBeatz
+favicon: null
+layout_spectrum: 0.6772751689422876
+typography_spectrum: 0.2428703485056758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9320546346716583
+  lightness: 0.9754061158746481
+  saturation: 0.7694728365167975
+  rhythmicContrast: 0.8163286112248898
+purpose: []
