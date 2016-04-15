@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'https://www.mixcloud.com/MeanBeatzBE/electronic-empire-ep1-by-meanbeatz/'
-datePublished: '2016-04-15T10:08:52.432Z'
-dateModified: '2016-04-15T09:53:06.288Z'
+description: Electronic Empire Episode 1
+datePublished: '2016-04-15T10:10:17.669Z'
+dateModified: '2016-04-15T10:09:47.749Z'
 title: Electronic empire
 author: []
 sourcePath: _posts/2016-04-15-electronic-empire.md
