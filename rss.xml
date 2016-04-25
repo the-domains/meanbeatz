@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MeanBeatz]]></title>
         <description><![CDATA[MeanBeatz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/meanbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 13:56:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 13:57:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/meanbeatz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af6bcb93-2d36-4cac-ad9c-77976602bd56.jpg">]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/meanbeatz/welcome/index.html</link>
             <guid isPermaLink="false">6d40d0ec-10ba-4e19-895f-67d7ea8eccce</guid>
-            <pubDate>Mon, 25 Apr 2016 13:56:11 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 13:57:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
