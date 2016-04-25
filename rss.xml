@@ -4,11 +4,17 @@
         <description><![CDATA[MeanBeatz]]></description>
         <link>https://thegrid.ai/meanbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 11:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 13:43:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meanbeatz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Meanbeatz - Belgium - #Mazdasounds]]></title>
+            <link>https://www.mixcloud.com/MeanBeatzBE/meanbeatz-belgium-mazdasounds/</link>
+            <guid isPermaLink="false">dc099a6e-bb84-4ad3-bbf5-b032183d4b15</guid>
+            <pubDate>Mon, 25 Apr 2016 13:42:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Electronic Empire Ep1 By Meanbeatz]]></title>
-            <description><![CDATA[<article><h1>Electronic Empire Ep1 By Meanbeatz</h1><p>This is our very first cloudcast called Electronic Empire. We'll bring you some of the greatest tunes non stop in an energetic uppumping mix. Please enjoy and do not forget to subscribe to our twitter or facebook account, so you can check regurarly for the latest MeanBeatz news.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb4fb27-bcb2-4279-85ea-8b97c67f53a3.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cb4fb27-bcb2-4279-85ea-8b97c67f53a3.jpg">]]></description>
             <link>https://www.mixcloud.com/MeanBeatzBE/electronic-empire-ep1-by-meanbeatz/</link>
             <guid isPermaLink="false">4ba1457d-6d13-4239-a4da-714516923aab</guid>
             <pubDate>Fri, 15 Apr 2016 11:43:45 GMT</pubDate>
@@ -22,7 +28,7 @@
         </item>
         <item>
             <title><![CDATA[Electronic Empire Title]]></title>
-            <description><![CDATA[<article><h1>Electronic Empire Title</h1><p>Electronic Empire Normal Text</p></article>]]></description>
+            <description><![CDATA[<p>Electronic Empire Normal Text</p>]]></description>
             <link>https://thegrid.ai/meanbeatz/electronic-empire/index.html</link>
             <guid isPermaLink="false">efc3d371-5598-488f-9805-5f87a11e98e2</guid>
             <pubDate>Fri, 15 Apr 2016 11:34:54 GMT</pubDate>
