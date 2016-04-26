@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Social Media
-datePublished: '2016-04-26T13:50:29.479Z'
-dateModified: '2016-04-26T13:49:27.544Z'
+description: 'Like, Follow and Listen to MeanBeatz on these social media pages'
+datePublished: '2016-04-26T13:54:50.630Z'
+dateModified: '2016-04-26T13:54:32.564Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-social-media.md
@@ -19,10 +19,10 @@ publisher:
   favicon: null
 starred: false
 url: social-media/index.html
-_type: Article
+_type: WebPage
 
 ---
-Social Media
+Like, Follow and Listen to MeanBeatz on these social media pages
 
 [Facebook][0]
 
