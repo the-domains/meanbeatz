@@ -4,7 +4,7 @@
         <description><![CDATA[MeanBeatz]]></description>
         <link>https://thegrid.ai/meanbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 13:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 09:59:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meanbeatz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meanbeatz - Belgium - #Mazdasounds]]></title>
@@ -12,6 +12,12 @@
             <link>https://www.mixcloud.com/MeanBeatzBE/meanbeatz-belgium-mazdasounds/</link>
             <guid isPermaLink="false">aeed7205-ad13-4a37-9c3b-67aa4790a0ce</guid>
             <pubDate>Mon, 25 Apr 2016 14:17:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electronic Empire Ep16 By Meanbeatz]]></title>
+            <link>https://www.mixcloud.com/MeanBeatzBE/electronic-empire-ep16-by-meanbeatz/</link>
+            <guid isPermaLink="false">90fcfc8e-476e-4199-a079-bb43d2f48954</guid>
+            <pubDate>Mon, 09 May 2016 09:59:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
