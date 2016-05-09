@@ -5,10 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Listen to MeanBeatz everyday on inyrface radio:'
-datePublished: '2016-05-09T12:46:45.773Z'
-dateModified: '2016-05-09T12:46:39.916Z'
+datePublished: '2016-05-09T12:48:40.643Z'
+dateModified: '2016-05-09T12:48:35.802Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-09-listen-to-meanbeatz-everyday-on-inyrface-radio.md
 authors: []
 publisher:
   name: null
@@ -16,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-listen-to-meanbeatz-everyday-on-inyrface-radio.md
 url: listen-to-meanbeatz-everyday-on-inyrface-radio/index.html
 _type: Article
 
