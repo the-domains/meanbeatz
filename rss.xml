@@ -4,7 +4,7 @@
         <description><![CDATA[MeanBeatz]]></description>
         <link>https://thegrid.ai/meanbeatz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 10:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 10:14:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/meanbeatz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meanbeatz - Belgium - #Mazdasounds]]></title>
@@ -14,17 +14,17 @@
             <pubDate>Mon, 25 Apr 2016 14:17:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Electronic Empire 16]]></title>
+            <link>https://www.mixcloud.com/MeanBeatzBE/electronic-empire-ep16-by-meanbeatz/</link>
+            <guid isPermaLink="false">90fcfc8e-476e-4199-a079-bb43d2f48954</guid>
+            <pubDate>Mon, 09 May 2016 10:14:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41ee86fd-30e9-4854-939f-ea6c8d46b9bd.jpg">]]></description>
             <link>https://thegrid.ai/meanbeatz/signing-a-record-deal-whoop-whoop/index.html</link>
             <guid isPermaLink="false">c5120629-fe7a-432f-bf92-e3387ebc342a</guid>
             <pubDate>Mon, 09 May 2016 10:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electronic Empire Ep16 By Meanbeatz]]></title>
-            <link>https://www.mixcloud.com/MeanBeatzBE/electronic-empire-ep16-by-meanbeatz/</link>
-            <guid isPermaLink="false">90fcfc8e-476e-4199-a079-bb43d2f48954</guid>
-            <pubDate>Mon, 09 May 2016 09:59:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
