@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Signing a record deal whoop whoop
-datePublished: '2016-05-09T10:05:27.307Z'
-dateModified: '2016-05-09T10:05:02.961Z'
+datePublished: '2016-05-09T10:11:39.683Z'
+dateModified: '2016-05-09T10:05:35.940Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-signing-a-record-deal-whoop-whoop.md
